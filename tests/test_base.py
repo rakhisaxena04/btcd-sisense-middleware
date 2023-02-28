@@ -1,5 +1,5 @@
-from project_name.base import NAME
+from btcd_sisense_middleware.base import NAME
 
 
 def test_base():
-    assert NAME == "project_name"
+    assert NAME == "btcd_sisense_middleware"
